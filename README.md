@@ -43,3 +43,6 @@ Initial login-event searches have been performed. Further review is required bef
 
 ## Disclaimer
 This project is for educational purposes. Account details and other sensitive information should be sanitized before publishing.
+## Evidence
+
+![Successful Login Count](successful-login-count.png)
