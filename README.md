@@ -38,8 +38,16 @@ index=* EventCode=4625
 | sort - count
 ```
 
-## Investigation Status
-Initial login-event searches have been performed. Further review is required before concluding whether any activity is suspicious.
+## Investigation Findings
+
+- Reviewed successful login events (Event ID 4624).
+- Reviewed failed login events (Event ID 4625).
+- Compared successful and failed login counts using Splunk.
+- Failed logins alone do not confirm an attack.
+
+## Conclusion
+
+This project demonstrates basic SOC Analyst L1 investigation skills using Splunk.
 
 ## Disclaimer
 This project is for educational purposes. Account details and other sensitive information should be sanitized before publishing.
